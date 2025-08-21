@@ -7,3 +7,4 @@
 - [LSR-001(+1) - Lamina类型系统增强提议](store/LSR-001(+1).md)
 - [LSR-001(+2) - Lamina语法糖增强提议](store/LSR-001(+2).md)
 - [LSR-001(+3) - Lamina语言其他增强提议](store/LSR-001(+3).md)
+- [LSR 007 - Lamina的有理数模块](store/LSR-007.md)
