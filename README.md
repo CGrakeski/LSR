@@ -1,5 +1,5 @@
 # LSR目录
-- [LSR 000 - LSR的目的和准则](store/LSR-000.md)
+- [LSR 000 - Lamina 核心语法规范](store/LSR-000.md)
 - [LSR 001 - LSR的目的和准则](store/LSR-001.md)
 - [LSR 002 - Lamina代码风格建议](store/LSR-002.md)
 - [LSR 003 - Lamina的LaTeXShow标准库](store/LSR-003.md)
@@ -12,3 +12,4 @@
 - [LSR 007 - Lamina的有理数模块](store/LSR-007.md)
 - [LSR 008 - 结构体](store/LSR-008.md)
 - [LSR 009 - 续行功能](store/LSR-009.md) 
+
