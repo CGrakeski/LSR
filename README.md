@@ -13,4 +13,4 @@
 - [LSR 007 - Lamina的有理数模块](store/LSR-007.md)
 - [LSR 008 - 结构体](store/LSR-008.md)
 - [LSR 009 - 续行功能](store/LSR-009.md) 
-
+- [LSR 010 - 虚数扩展](store/LSR-010.md) 
