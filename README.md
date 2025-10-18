@@ -16,3 +16,4 @@
 - [LSR 010 - 虚数扩展](store/LSR-010.md) 
 - [LSR 011 - OOP在lamina的应用](store/LSR-011.md) 
 - [LSR 012 - FP在lamina的应用](store/LSR-012.md) 
+- [LSR 013 - 增强lamina的鲁棒性](store/LSR-013.md) 
