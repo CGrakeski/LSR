@@ -14,3 +14,5 @@
 - [LSR 008 - 结构体](store/LSR-008.md)
 - [LSR 009 - 续行功能](store/LSR-009.md) 
 - [LSR 010 - 虚数扩展](store/LSR-010.md) 
+- [LSR 011 - OOP在lamina的应用](store/LSR-011.md) 
+- [LSR 012 - FP在lamina的应用](store/LSR-012.md) 
